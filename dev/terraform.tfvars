@@ -1,0 +1,6 @@
+rgname                 = "dev-nikhilan-rg"
+service_principal_name = "dev-nikhilan-spn"
+keyvault_name          = "dev-nikhilan-kv-101"
+SUB_ID = ""
+cluster_name = "dev-nikhilan-cluster"
+node_pool_name = "devnp"

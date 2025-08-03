@@ -1,0 +1,6 @@
+rgname                 = "stage-nikhilan-rg"
+service_principal_name = "stage-nikhilan-spn"
+keyvault_name          = "stage-nikhilan-kv-101"
+SUB_ID = ""
+node_pool_name = "stagenp"
+cluster_name = "stage-nikhilan-cluster"
